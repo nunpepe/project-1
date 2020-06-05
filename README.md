@@ -1,2 +1,5 @@
 # Project 1
-Build your own game!
+Blackjack with Python
+
+Source: https://bicyclecards.com/how-to-play/blackjack/
+
