@@ -9,7 +9,7 @@ The standard 52-card pack is used, but in most casinos several decks of cards ar
 ## OBJECT OF THE GAME
 Each participant attempts to beat the dealer by getting a count as close to 21 as possible, without going over 21.
 
-## (NOT YET) BETTING
+## BETTING
 Before the deal begins, each player places a bet, in chips, in front of them in the designated area. Minimum and maximum limits are established on the betting, and the general limits are from $2 to $500.
 
 ## THE DEAL
@@ -24,10 +24,10 @@ The player to the left goes first and must decide whether to "stand" (not ask fo
 ## THE DEALER'S PLAY
 When the dealer has served every player. If the total is 17 or more, it must stand. If the total is 16 or under, they must take a card. The dealer must continue to take cards until the total is 17 or more, at which point the dealer must stand. If the dealer has an ace, and counting it as 11 would bring the total to 17 or more (but not over 21), the dealer must count the ace as 11 and stand. The dealer's decisions, then, are automatic on all plays, whereas the player always has the option of taking one or more cards.
 
-(NOT YET) The combination of an ace with a card other than a ten-card is known as a "soft hand," because the player can count the ace as a 1 or 11, and either draw cards or not. For example with a "soft 17" (an ace and a 6), the total is 7 or 17. While a count of 17 is a good hand, the player may wish to draw for a higher total. If the draw creates a bust hand by counting the ace as an 11, the player simply counts the ace as a 1 and continues playing by standing or "hitting" (asking the dealer for additional cards, one at a time).
+(NOT INCLUDED) The combination of an ace with a card other than a ten-card is known as a "soft hand," because the player can count the ace as a 1 or 11, and either draw cards or not. For example with a "soft 17" (an ace and a 6), the total is 7 or 17. While a count of 17 is a good hand, the player may wish to draw for a higher total. If the draw creates a bust hand by counting the ace as an 11, the player simply counts the ace as a 1 and continues playing by standing or "hitting" (asking the dealer for additional cards, one at a time). In this game "Ace" = 11.
 
 (NOT COMPLETE) CARD VALUES/SCORING
-It is up to each individual player if an ace is worth 1 or 11. Face cards are 10 and any other card is its pip value.
+Face cards are 10 and any other card is its pip value. It is up to each individual player if an ace is worth 1 or 11. 
 
 (NOT YET) THE SHUFFLE AND CUT
 The dealer thoroughly shuffles portions of the pack until all the cards have been mixed and combined. The dealer designates one of the players to cut, and the plastic insert card is placed so that the last 60 to 75 cards or so will not be used. (Not dealing to the bottom of all the cards makes it more difficult for professional card counters to operate effectively.)
